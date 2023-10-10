@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Andrew.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Vegetable Samosas.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: PC games, TTRPGS, singing.
 
 ##
-My favorite artist/band is: Nirvana.
+An artist/band I like is: Weird Al Yankovich.
 
